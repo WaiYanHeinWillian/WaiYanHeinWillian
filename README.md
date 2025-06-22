@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WaiYanHeinWillian
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning NodeJS
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me waiyanhein5796.tgi@gmail.com
 
